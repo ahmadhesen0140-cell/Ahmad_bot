@@ -1,5 +1,5 @@
 {
-  "PREFIX": ";",
+  "PREFIX": "/",
   "ADMINBOT": ["100003922506337"], 
   "BOTNAME": "Mirror Bot",
   "GEMINI_KEY": "your_apikey", 
