@@ -1,13 +1,12 @@
 # Mirror Bot 
 # Developed By Hakim Tracks 
-![Mirror Bot Agent](https://i.imgur.com/aAO58sQ.jpeg)
+![Mirror Bot Agent](https://imgur.com/a/Adz2qiH)
 
-## معلومات البوت
-- **اسم البوت:** Mirror Bot
+## معلومات https
+- **اسم البوت:** Tails Bot
 - **الوظيفة:** بوت ماسنجر
 
-## معلومات المطور
-- **صلاح الدين (Hakim Tracks)**
+## معلومات الMirror **صلاح الدين ( Ahmed Hussei)**
   - [حساب فيسبوك](fb.com/Hakim.Tracks.Ch)
 
 ## مشاريع أخرى
@@ -21,6 +20,6 @@
 
 | Facebook | 
 | :---: | 
-| <a href="https://www.facebook.com/Hakim.Tracks.Ch"><img src="https://i.postimg.cc/fyLsTW4T/qr-code-(2).png" /></a>
+| <a href="https://www.facebook.com/Hakim.Tracks.Ch"><img src="https://wallpapers.com/images/hd/tails-qt12qjemy4sdq31h.jpg" /></a>
 
 
