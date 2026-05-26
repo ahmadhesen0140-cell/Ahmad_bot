@@ -9,16 +9,16 @@ const API_CONFIG = {
 };
 
 // 📱 iPhone Safari User-Agent
-const userAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1";
+const userAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/60e34",
 
 module.exports.config = {
-    title: "rule34",
+    title: "رول",
     release: "3.0",
     clearance: 18,
     author: "Hakim Tracks",
     summary: "بحث وتحميل صور/فيديوهات من Rule34.xxx",
     section: "18+",
-    syntax: "rule34 <كلمة البحث> [-عدد]",
+    syntax: "رول <كلمة البحث> [-عدد]",
     delay: 5,
 };
 
@@ -28,11 +28,11 @@ module.exports.HakimRun = async function ({ api, event, args }) {
     if (!keyword) {
         return api.sendMessage(
             "🔍 كيفية الاستخدام:\n" +
-            "rule34 <كلمة البحث>\n\n" +
+            "رول <كلمة البحث>\n\n" +
             "أمثلة:\n" +
-            "• rule34 naruto\n" +
-            "• rule34 anime video\n" +
-            "• rule34 game -5 (لجلب 5 صور)",
+            "• رول naruto\n" +
+            "• رول anime video\n" +
+            "• رول game -5 (لجلب 5 صور)",
             event.threadID,
             event.messageID
         );
