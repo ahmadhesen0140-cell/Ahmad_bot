@@ -1,9 +1,3 @@
-/**
- * 🎌 Hentai Bot for Messenger - Rule34.xxx Integration
- * Author: Hakim Tracks
- * Features: Search, Download, Pagination, Images/Videos Support
- */
-
 const axios = require('axios');
 const fs = require('fs-extra');
 const path = require('path');
