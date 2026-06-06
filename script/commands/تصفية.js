@@ -1,4 +1,4 @@
-const DEVELOPER_ID = "100003922506337";
+const DEVELOPER_ID = "61575517356350";
 
 module.exports.config = {
     title: "تصفية",
