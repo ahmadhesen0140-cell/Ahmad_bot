@@ -2,7 +2,7 @@
   "PREFIX": ";",
   "ADMINBOT": ["61575517356350"], 
   "BOTNAME": "Tails Bot",
-  "GEMINI_KEY": "your_apikey", 
+  "GEMINI_KEY": "AQ.Ab8RN6KHj1EP-CyJJbBzTT8oC4dnw_o0x4Jkg9r5FWJKtxT8tw", 
   "fcaOptions": {
     "online": true, 
     "autoReconnec": true, 
